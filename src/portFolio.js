@@ -1,7 +1,7 @@
 const about = {
   name: "Jesus Gomez",
   description:
-    "Soy un desarrollador web Full Stack con pasión por la tecnología. Tengo experiencia en el desarrollo de sitios web, aplicaciones web y además en el trabajo en equipo utilizando metodologías ágiles como SCRUM. También tengo experiencia en el trabajo con bases de datos y sistemas de back-end.  Siempre estoy dispuesto a aprender nuevas cosas y estoy entusiasmado con la posibilidad de trabajar en una empresa que me permita utilizar mis habilidades para hacer la diferencia en cada proyecto del que sea participe.",
+    "Un desarrollador web Full Stack con pasión por la tecnología. Tengo experiencia en el desarrollo de sitios web, aplicaciones web y además en el trabajo en equipo utilizando metodologías ágiles como SCRUM. También tengo experiencia con bases de datos y sistemas de back-end.  Siempre estoy dispuesto a aprender cosas nuevas y poder superarme para afrontar nuevos retos . Soy una persona a la que le gusta ayudar a que los demás aprendan y también aprender de los demás, esto me permite poder seguir creciendo como persona y desarrollador.",
   image: "",
   cv: "https://docs.google.com/document/d/14qmKOsy9iuFVryd1PptVkF57_SluJkf_/edit?usp=sharing&ouid=104439830068216143035&rtpof=true&sd=true",
   linkedin: "https://www.linkedin.com/in/jesus-emanuel-gomez-33a0ba244/",

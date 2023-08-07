@@ -41,7 +41,13 @@ h1 {
   line-height: 1.1;
 }
 .title-section {
-  @apply text-5xl text-center font-extrabold text-azul m-10;
+  @apply text-5xl text-center font-extrabold text-azul select-none m-10;
+}
+.description-p {
+  @apply text-center font-semibold text-xl dark:text-celeste p-2;
+}
+.navBar-button {
+  @apply m-1 text-azul text-lg hover:text-celeste max-lg:text-xs;
 }
 button {
   border-radius: 8px;

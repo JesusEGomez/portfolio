@@ -12,10 +12,10 @@ function App() {
 
   return (
 
-    <div className='mt-16' >
+    <div className='mt-16 w-full max-sm:w-screen transition-all  ' >
 
       <NavBar />
-      <main className='flex flex-col items-center justify-center w-full max-md:w-screen'>
+      <main className='flex flex-col items-center justify-center  '>
 
         <About />
         <Projects />
