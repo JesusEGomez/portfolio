@@ -33,7 +33,7 @@ const projects = [
       "Sequelize",
       "Express",
       "C#",
-      ".NET"
+      ".NET" 
     ],
     code: "https://github.com/JesusEGomez/Step-by-Step",
     deploy: "https://step-by-step-pi.vercel.app/",
