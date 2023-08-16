@@ -52,6 +52,8 @@ const skills = [
   "Firebase",
   "Sequelize",
   "PostgreSQL",
+  "C#",
+  ".NET",
 ];
 
 const contact = {
