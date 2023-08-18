@@ -32,8 +32,6 @@ const projects = [
       "PostgreSQL",
       "Sequelize",
       "Express",
-      "C#",
-      ".NET" 
     ],
     code: "https://github.com/JesusEGomez/Step-by-Step",
     deploy: "https://step-by-step-pi.vercel.app/",
@@ -54,8 +52,8 @@ const skills = [
   "Firebase",
   "Sequelize",
   "PostgreSQL",
-  "C#",
-  ".NET",
+  "TypeScript"
+
 ];
 
 const contact = {
