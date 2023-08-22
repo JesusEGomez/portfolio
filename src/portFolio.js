@@ -3,7 +3,7 @@ const about = {
   description:
     "Un desarrollador web Full Stack con pasión por la tecnología. Tengo experiencia en el desarrollo de sitios web, aplicaciones web y además en el trabajo en equipo utilizando metodologías ágiles como SCRUM. También tengo experiencia con bases de datos y sistemas de back-end.  Siempre estoy dispuesto a aprender cosas nuevas y poder superarme para afrontar nuevos retos . Soy una persona a la que le gusta ayudar a que los demás aprendan y también aprender de los demás, esto me permite poder seguir creciendo como persona y desarrollador.",
   image: "",
-  cv: "https://docs.google.com/document/d/14qmKOsy9iuFVryd1PptVkF57_SluJkf_/edit?usp=sharing&ouid=104439830068216143035&rtpof=true&sd=true",
+  cv: "https://drive.google.com/file/d/1PGvvE-7_1fAT1D2E7S5Cdx_L1PekG-IB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/jesus-emanuel-gomez-33a0ba244/",
   gitHub: "https://github.com/JesusEGomez",
 };
