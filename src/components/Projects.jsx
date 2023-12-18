@@ -1,6 +1,7 @@
 import { projects } from "../portFolio"
 import { BsCodeSlash } from "react-icons/bs"
 import { FaExternalLinkAlt } from 'react-icons/fa';
+import { LuLoader2 } from "react-icons/lu";
 const Projects = () => {
 
     return (
@@ -21,7 +22,8 @@ const Projects = () => {
                                 </div>
                                 <div className="card-actions w-full justify-evenly p-2 ">
                                     <a href={project.code}> <button className="m-1 btn bg-azul  h-fit w-20  text-clarito"><BsCodeSlash className="text-2xl " /></button></a>
-                                    <a href={project.deploy}> <button className="m-1 btn bg-azul  h-fit w-20  text-clarito">< FaExternalLinkAlt className="text-2xl" /></button></a>
+                                    {project.deploy ? <a href={project.deploy}> <button className="m-1 btn bg-azul  h-fit w-20  text-clarito">< FaExternalLinkAlt className="text-2xl" /></button></a> : <div className="tooltip" data-tip="Pronto"> <button className="m-1 btn bg-azul  h-fit w-20  text-clarito  "  >< LuLoader2 className="text-2xl " /></button></div>}
+
                                 </div>
                             </div>
                         </div>

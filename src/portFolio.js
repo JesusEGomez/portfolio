@@ -3,8 +3,8 @@ const about = {
   description:
     "Desarrollador web Full Stack con pasión por la tecnología. Tengo experiencia en el desarrollo de sitios web, aplicaciones web y además en el trabajo en equipo utilizando metodologías ágiles como SCRUM. También tengo experiencia con bases de datos y sistemas de back-end.  Siempre estoy dispuesto a aprender cosas nuevas y poder superarme para afrontar nuevos retos . Soy una persona a la que le gusta ayudar a que los demás aprendan y también aprender de los demás, esto me permite poder seguir creciendo como persona y desarrollador.",
   image: "",
-  cv: "https://drive.google.com/file/d/1RiLKnGEsl4zJjyYKO_i2hKUuX1aNBrw1/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/jesus-emanuel-gomez-33a0ba244/",
+  cv: "https://drive.google.com/file/d/1yxBou3Cv_9HRX34sXDdjEGjaXP5S6J9w/view?usp=sharing",
+  LinkedIn: "https://www.linkedin.com/in/jesus-emanuel-gomez-33a0ba244/",
   gitHub: "https://github.com/JesusEGomez",
 };
 
@@ -36,6 +36,22 @@ const projects = [
     code: "https://github.com/JesusEGomez/Step-by-Step",
     deploy: "https://step-by-step-pi.vercel.app/",
   },
+  {
+    title: "CsArquitectura",
+    image:
+      "https://res.cloudinary.com/dp6kkthmv/image/upload/v1702910300/Carlos_Web_1_grfwvv.jpg",
+    Description:
+      "Esta página está diseñada con el propósito de exhibir los trabajos ejecutados por un arquitecto destacado. Posee diversas secciones que permiten contactar con el propietario, conocer más sobre él y, por supuesto, explorar todos los proyectos realizados. Además, la página cuenta con un Dashboard que facilita la administración de su contenido.",
+    stack: [
+      "React",
+      "TypeScript",
+      "Redux ToolKit",
+      "PostgreSQL",
+      "TypeOrm",
+      "Express",
+    ],
+    code: "https://github.com/JesusEGomez/Arquitectura-Carlos",
+  },
 ];
 
 const skills = [
@@ -43,8 +59,9 @@ const skills = [
   "CSS",
   "JavaScript",
   "React",
+  "Angular",
   "Redux",
-  "SASS",
+  "TailWind",
   "Material UI",
   "Git",
   "NEXT.js",
@@ -52,8 +69,7 @@ const skills = [
   "Firebase",
   "Sequelize",
   "PostgreSQL",
-  "TypeScript"
-
+  "TypeScript",
 ];
 
 const contact = {
